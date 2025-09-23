@@ -6,3 +6,4 @@
 📚 Estudante Analise e Desenvolvimento de Sistemas - Uninter   
 🏢 Analista de Ti Concessionária Volkswagen
 
+✉️ [LinkedIn](https://br.linkedin.com/in/fabio-limberger)
