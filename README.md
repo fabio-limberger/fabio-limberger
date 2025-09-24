@@ -1,6 +1,6 @@
 ## Olá, Bem-vindo ao meu GitHub! 🚀
    
- Busco a constante evolução, um admirador da natureza, de músicas e enorme fascínio pelas grandes inovações tecnológicas.       
+Busco a constante evolução, admirador da natureza, da música e tenho enorme fascínio pelas grandes inovações tecnológicas.       
 
 🌎 Biólogo (CRBio 129280/03-D) - UFSM/PM      
 📚 Estudante Analise e Desenvolvimento de Sistemas - Uninter   
